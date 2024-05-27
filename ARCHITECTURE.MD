@@ -108,7 +108,7 @@ Inicialmente contaremos com as seguintes funcionalidades:
 **Landing Page Conta Garantida**
 
 Apresenta uma tela que exibe todas as ofertas disponíveis de conta garantida para o cartões e direciona para a contratação caso possua a oferta e clique em contratar.
-- No caso da garantia de CG Cartões que já esta nessa aplicação o cliente somente mudará mudará de página pelo Angular route;
+- No caso da garantia de CG Cartões que já esta nessa aplicação o cliente somente mudará de página pelo Angular route;
 - Para as garantias que ainda não estão aqui o cliente será direcionado pela op.
 
 **Contratação de Conta Garantida Cartões**
